@@ -1,5 +1,5 @@
-Link do projeto base: https://github.com/alura-cursos/spotify-imersao/tree/main
-Guia de mergulho do projeto: https://grupoalura.notion.site/Imers-o-Front-End-Guia-de-Mergulho-53f23a8a959e43608524e08b22c585b9
+## [Link do Projeto Base](https://github.com/alura-cursos/spotify-imersao/tree/main)
+### [Guia de Mergulho do Projeto](https://grupoalura.notion.site/Imers-o-Front-End-Guia-de-Mergulho-53f23a8a959e43608524e08b22c585b9)
 
 -
 

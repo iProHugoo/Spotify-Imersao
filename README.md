@@ -13,3 +13,14 @@ Revisar as diferenças entre HTML, CSS e JavaScript;
 Fazer a sidebar navigation;
 Aprender dicas de atalho no VSCode para escrever HTML;
 Introduzir as propriedades de estilo do CSS no projeto, com truques no Devtools.
+
+-
+
+Aula 02: Estilo Avançado e Posicionamento: Transformando Layouts
+
+Nesta aula, vamos abordar o código do menu lateral e aprofundar-nos em CSS, explorando posicionamento, layouts e a técnica do Flexbox
+
+Nesta aula, você vai:
+Criar todo menu lateral da página;
+Aprender os fundamentos do CSS Flexbox;
+Saber mais sobre posicionamentos no CSS.

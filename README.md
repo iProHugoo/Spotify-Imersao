@@ -48,3 +48,12 @@ Instalar do Node.js;
 Introduzir o JavaScript no projeto;
 Utilizar o conceito DOM;
 Conhecer o método Promises do JavaScript.
+
+-
+
+Aula 05: Nesta última aula, iremos utilizar frameworks de JavaScript React no projeto
+
+Nesta aula, você vai:
+Dar introdução a um projeto React;
+Utilizar o framework React para criar os componentes;
+Aprender as diferenças entre Angular e React.
